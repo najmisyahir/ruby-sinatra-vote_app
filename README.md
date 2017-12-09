@@ -2,7 +2,10 @@
 
 ## Running the app
 Go to the directory where you put your app and run 
-> ruby suffragist.rb. 
+
+```ruby
+ ruby suffragist.rb 
+```
 
 Now you can visit 
 
